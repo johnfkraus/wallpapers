@@ -1,4 +1,4 @@
 # wallpapers
 Images
 
-![alt text](collections_interface_and_class_heirarchy.png "Title")
+![Collections](collections_interface_and_class_heirarchy.png "Collections Interface and Class Hierarchy")
